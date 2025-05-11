@@ -1,2 +1,5 @@
 # random-scripts
 :D
+
+
+STORE ANY SMALL SCRIPTS IN THIS REPO
